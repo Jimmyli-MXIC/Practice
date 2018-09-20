@@ -1,0 +1,6 @@
+#! /bin/expect
+set timeout 30
+spawn ssh tedev0@192.168.164.196;
+expect "password:"
+send "123qweASD\r"
+interact

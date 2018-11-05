@@ -32,3 +32,11 @@ python src/classifier.py CLASSIFY ~/gitprojects/dataset/img_data_0920_mtcnnpy_16
 --nrof_train_images_per_class 5 \
 --use_split_dataset \
 --seed 333
+
+
+
+
+
+
+
+
